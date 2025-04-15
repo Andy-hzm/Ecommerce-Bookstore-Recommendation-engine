@@ -9,7 +9,7 @@ This project builds a recommendation engine tailored for an online bookstore. It
 ## 📊 Presentations
 
 - 👨‍💼 [Presentation for CTO](https://docs.google.com/presentation/d/11sEEU3vG-Ak3i9SYpfi-paK8H97Yp-Iu/edit?usp=sharing&ouid=115990714483810300198&rtpof=true&sd=true)  
-- 👩‍💼 [Presentation for CMO](https://docs.google.com/presentation/d/1A70p2NqXh8h7uQ9EZPlYbEMtqTvxGz90/edit?usp=sharing&ouid=115990714483810300198&rtpof=true&sd=true](https://docs.google.com/presentation/d/1A70p2NqXnBh7uQ9EZPIYbEMtqIvxGz9O/edit?usp=sharing&ouid=115990714483810300198&rtpof=true&sd=true)
+- 👩‍💼 [Presentation for CMO](https://docs.google.com/presentation/d/1A70p2NqXh8h7uQ9EZPlYbEMtqTvxGz90/edit?usp=sharing&ouid=115990714483810300198&rtpof=true&sd=true)
 
 ---
 
