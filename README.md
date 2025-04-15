@@ -1,0 +1,25 @@
+# 📚 Ecommerce Bookstore Recommendation Engine
+
+**A Machine Learning-Based Personalization System for Enhanced Customer Engagement**
+
+This project builds a recommendation engine tailored for an online bookstore. It includes customer segmentation and collaborative filtering to generate personalized suggestions.
+
+---
+
+## 📊 Presentations
+
+- 👨‍💼 [Presentation for CTO](https://docs.google.com/presentation/d/11sEEU3vG-Ak319SYpfi-paK8H97Yp-Iu/edit?usp=sharing&ouid=115990714483810300198&rtpof=true&sd=true)  
+- 👩‍💼 [Presentation for CMO](https://docs.google.com/presentation/d/1A70p2NqXh8h7uQ9EZPlYbEMtqTvxGz90/edit?usp=sharing&ouid=115990714483810300198&rtpof=true&sd=true)
+
+---
+
+## 🛠️ Pipeline Overview
+
+![Pipeline](https://github.com/user-attachments/assets/ed6ec166-12ba-41e8-822f-de0a484ecaf3)
+
+---
+
+## 👥 Customer Segmentation Result
+
+![Customer Segmentation](https://github.com/user-attachments/assets/50af3dfa-758f-43da-900c-14e84ab355d6)
+
