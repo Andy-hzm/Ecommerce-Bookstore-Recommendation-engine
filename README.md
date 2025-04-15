@@ -23,3 +23,6 @@ This project builds a recommendation engine tailored for an online bookstore. It
 
 ![Customer Segmentation](https://github.com/user-attachments/assets/50af3dfa-758f-43da-900c-14e84ab355d6)
 
+## 💰 Financial Impact
+
+![image](https://github.com/user-attachments/assets/9139043a-ecac-481f-a44e-04255a74fe91)
